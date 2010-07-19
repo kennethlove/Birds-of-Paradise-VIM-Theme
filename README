@@ -1,0 +1,3 @@
+VIM theme based on the Birds of Paradise theme for Coda (http://joebergantine.com/werkstatt/birds-of-paradise).
+
+To install, copy birds_of_paradise.vim to your VIM colors folder (typically ~/.vim/colors/), and set `colorscheme birds_of_paradise` in your .vimrc.
